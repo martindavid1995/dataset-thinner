@@ -5,4 +5,4 @@ Thins out osrs data to JSON object containing item names mapped to item icons
 
 This will be updated periodically as new items enter the game.
 
-Item images provided by [RuneLite](https://github.com/runelite)
+Item sprites hosted and provided by [RuneLite](https://github.com/runelite)
