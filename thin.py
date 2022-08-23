@@ -17,13 +17,17 @@ def main():
     
     # Need to skip all values that are null or have -1 as noteId
     json_data = []
+    uniq = []
     for obj in objs:
-        if (obj['name'] != 'null' and obj['name'] != 'Null'):
+        if (obj['name'] != 'null' and obj['name'] != 'Null' and obj['name'] not in uniq):
+            uniq.append(obj['name'])
             n_obj = json.dumps({
                 "name" : ((obj['name']).replace(' ', '_')).lower(),
                 "img_url" : "https://static.runelite.net/cache/item/icon/"+str(obj['id'])+".png"
                 })
             json_data.append(json.loads(n_obj))
+    
+    
     
     with open("item_images.json", "w") as outfile:
         json.dump(json_data, outfile)
