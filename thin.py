@@ -20,7 +20,7 @@ def main():
     for obj in objs:
         if (obj['name'] != 'null' and obj['name'] != 'Null'):
             n_obj = json.dumps({
-                "name" : ((obj['name']).replace(' ', '_')),
+                "name" : ((obj['name']).replace(' ', '_')).lower(),
                 "img_url" : "https://static.runelite.net/cache/item/icon/"+str(obj['id'])+".png"
                 })
             json_data.append(json.loads(n_obj))
