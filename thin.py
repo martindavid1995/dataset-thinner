@@ -23,7 +23,8 @@ def main():
             uniq.append(obj['name'])
             n_obj = json.dumps({
                 "name" : ((obj['name']).replace(' ', '_')).lower(),
-                "img_url" : "https://static.runelite.net/cache/item/icon/"+str(obj['id'])+".png"
+                "img_url" : "https://static.runelite.net/cache/item/icon/"+str(obj['id'])+".png",
+                "detail_url" : "https://oldschool.runescape.wiki/images/"+(obj['name']).replace(' ', '_') + "_detail.png"
                 })
             json_data.append(json.loads(n_obj))
     
