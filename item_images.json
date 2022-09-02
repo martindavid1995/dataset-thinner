@@ -43900,21 +43900,6 @@
     "detail_url": "https://oldschool.runescape.wiki/images/Hespori_bark_detail.png"
   },
   {
-    "name": "masori_chestplate",
-    "img_url": "https://static.runelite.net/cache/item/icon/25969.png",
-    "detail_url": "https://oldschool.runescape.wiki/images/Masori_chestplate_detail.png"
-  },
-  {
-    "name": "masori_chainskirt",
-    "img_url": "https://static.runelite.net/cache/item/icon/25971.png",
-    "detail_url": "https://oldschool.runescape.wiki/images/Masori_chainskirt_detail.png"
-  },
-  {
-    "name": "masori_amulet",
-    "img_url": "https://static.runelite.net/cache/item/icon/25973.png",
-    "detail_url": "https://oldschool.runescape.wiki/images/Masori_amulet_detail.png"
-  },
-  {
     "name": "lightbearer",
     "img_url": "https://static.runelite.net/cache/item/icon/25975.png",
     "detail_url": "https://oldschool.runescape.wiki/images/Lightbearer_detail.png"
@@ -43930,24 +43915,9 @@
     "detail_url": "https://oldschool.runescape.wiki/images/Keris_partisan_of_breaching_detail.png"
   },
   {
-    "name": "elidinis'_broken_ward",
-    "img_url": "https://static.runelite.net/cache/item/icon/25983.png",
-    "detail_url": "https://oldschool.runescape.wiki/images/Elidinis'_broken_ward_detail.png"
-  },
-  {
     "name": "elidinis'_ward",
     "img_url": "https://static.runelite.net/cache/item/icon/25985.png",
     "detail_url": "https://oldschool.runescape.wiki/images/Elidinis'_ward_detail.png"
-  },
-  {
-    "name": "tumeken's_heka",
-    "img_url": "https://static.runelite.net/cache/item/icon/25987.png",
-    "detail_url": "https://oldschool.runescape.wiki/images/Tumeken's_heka_detail.png"
-  },
-  {
-    "name": "tumeken's_heka_(uncharged)",
-    "img_url": "https://static.runelite.net/cache/item/icon/25989.png",
-    "detail_url": "https://oldschool.runescape.wiki/images/Tumeken's_heka_(uncharged)_detail.png"
   },
   {
     "name": "sigil_of_resilience",
@@ -44258,11 +44228,6 @@
     "name": "hardcore_group_iron_bracers",
     "img_url": "https://static.runelite.net/cache/item/icon/26182.png",
     "detail_url": "https://oldschool.runescape.wiki/images/Hardcore_group_iron_bracers_detail.png"
-  },
-  {
-    "name": "masori_headdress",
-    "img_url": "https://static.runelite.net/cache/item/icon/26217.png",
-    "detail_url": "https://oldschool.runescape.wiki/images/Masori_headdress_detail.png"
   },
   {
     "name": "osmumten's_fang",
@@ -46328,5 +46293,350 @@
     "name": "dagon'hai_robe_bottom_(or)",
     "img_url": "https://static.runelite.net/cache/item/icon/27127.png",
     "detail_url": "https://oldschool.runescape.wiki/images/Dagon'hai_robe_bottom_(or)_detail.png"
+  },
+  {
+    "name": "menaphite_remedy(4)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27202.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Menaphite_remedy(4)_detail.png"
+  },
+  {
+    "name": "menaphite_remedy(3)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27205.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Menaphite_remedy(3)_detail.png"
+  },
+  {
+    "name": "menaphite_remedy(2)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27208.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Menaphite_remedy(2)_detail.png"
+  },
+  {
+    "name": "menaphite_remedy(1)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27211.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Menaphite_remedy(1)_detail.png"
+  },
+  {
+    "name": "scarab_dung",
+    "img_url": "https://static.runelite.net/cache/item/icon/27214.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Scarab_dung_detail.png"
+  },
+  {
+    "name": "fossilised_dung",
+    "img_url": "https://static.runelite.net/cache/item/icon/27216.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Fossilised_dung_detail.png"
+  },
+  {
+    "name": "big_banana",
+    "img_url": "https://static.runelite.net/cache/item/icon/27221.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Big_banana_detail.png"
+  },
+  {
+    "name": "eldritch_ashes",
+    "img_url": "https://static.runelite.net/cache/item/icon/27223.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Eldritch_ashes_detail.png"
+  },
+  {
+    "name": "masori_mask",
+    "img_url": "https://static.runelite.net/cache/item/icon/27226.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Masori_mask_detail.png"
+  },
+  {
+    "name": "masori_body",
+    "img_url": "https://static.runelite.net/cache/item/icon/27229.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Masori_body_detail.png"
+  },
+  {
+    "name": "masori_chaps",
+    "img_url": "https://static.runelite.net/cache/item/icon/27232.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Masori_chaps_detail.png"
+  },
+  {
+    "name": "masori_mask_(f)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27235.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Masori_mask_(f)_detail.png"
+  },
+  {
+    "name": "masori_body_(f)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27238.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Masori_body_(f)_detail.png"
+  },
+  {
+    "name": "masori_chaps_(f)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27241.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Masori_chaps_(f)_detail.png"
+  },
+  {
+    "name": "osmumten's_fang_(or)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27246.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Osmumten's_fang_(or)_detail.png"
+  },
+  {
+    "name": "cursed_phalanx",
+    "img_url": "https://static.runelite.net/cache/item/icon/27248.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Cursed_phalanx_detail.png"
+  },
+  {
+    "name": "elidinis'_ward_(f)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27251.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Elidinis'_ward_(f)_detail.png"
+  },
+  {
+    "name": "elidinis'_ward_(or)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27253.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Elidinis'_ward_(or)_detail.png"
+  },
+  {
+    "name": "menaphite_ornament_kit",
+    "img_url": "https://static.runelite.net/cache/item/icon/27255.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Menaphite_ornament_kit_detail.png"
+  },
+  {
+    "name": "icthlarin's_shroud_(tier_1)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27257.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Icthlarin's_shroud_(tier_1)_detail.png"
+  },
+  {
+    "name": "icthlarin's_shroud_(tier_2)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27259.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Icthlarin's_shroud_(tier_2)_detail.png"
+  },
+  {
+    "name": "icthlarin's_shroud_(tier_3)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27261.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Icthlarin's_shroud_(tier_3)_detail.png"
+  },
+  {
+    "name": "icthlarin's_shroud_(tier_4)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27263.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Icthlarin's_shroud_(tier_4)_detail.png"
+  },
+  {
+    "name": "icthlarin's_shroud_(tier_5)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27265.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Icthlarin's_shroud_(tier_5)_detail.png"
+  },
+  {
+    "name": "icthlarin's_hood_(tier_5)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27267.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Icthlarin's_hood_(tier_5)_detail.png"
+  },
+  {
+    "name": "armadylean_plate",
+    "img_url": "https://static.runelite.net/cache/item/icon/27269.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Armadylean_plate_detail.png"
+  },
+  {
+    "name": "lily_of_the_sands",
+    "img_url": "https://static.runelite.net/cache/item/icon/27272.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Lily_of_the_sands_detail.png"
+  },
+  {
+    "name": "tumeken's_shadow",
+    "img_url": "https://static.runelite.net/cache/item/icon/27275.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Tumeken's_shadow_detail.png"
+  },
+  {
+    "name": "tumeken's_shadow_(uncharged)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27277.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Tumeken's_shadow_(uncharged)_detail.png"
+  },
+  {
+    "name": "thread_of_elidinis",
+    "img_url": "https://static.runelite.net/cache/item/icon/27279.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Thread_of_elidinis_detail.png"
+  },
+  {
+    "name": "divine_rune_pouch",
+    "img_url": "https://static.runelite.net/cache/item/icon/27281.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Divine_rune_pouch_detail.png"
+  },
+  {
+    "name": "breach_of_the_scarab",
+    "img_url": "https://static.runelite.net/cache/item/icon/27283.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Breach_of_the_scarab_detail.png"
+  },
+  {
+    "name": "eye_of_the_corruptor",
+    "img_url": "https://static.runelite.net/cache/item/icon/27285.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Eye_of_the_corruptor_detail.png"
+  },
+  {
+    "name": "keris_partisan_of_corruption",
+    "img_url": "https://static.runelite.net/cache/item/icon/27287.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Keris_partisan_of_corruption_detail.png"
+  },
+  {
+    "name": "jewel_of_the_sun",
+    "img_url": "https://static.runelite.net/cache/item/icon/27289.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Jewel_of_the_sun_detail.png"
+  },
+  {
+    "name": "keris_partisan_of_the_sun",
+    "img_url": "https://static.runelite.net/cache/item/icon/27291.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Keris_partisan_of_the_sun_detail.png"
+  },
+  {
+    "name": "cache_of_runes",
+    "img_url": "https://static.runelite.net/cache/item/icon/27293.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Cache_of_runes_detail.png"
+  },
+  {
+    "name": "neutralising_potion",
+    "img_url": "https://static.runelite.net/cache/item/icon/27297.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Neutralising_potion_detail.png"
+  },
+  {
+    "name": "maisa's_message",
+    "img_url": "https://static.runelite.net/cache/item/icon/27298.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Maisa's_message_detail.png"
+  },
+  {
+    "name": "akila's_journal",
+    "img_url": "https://static.runelite.net/cache/item/icon/27300.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Akila's_journal_detail.png"
+  },
+  {
+    "name": "het's_capture",
+    "img_url": "https://static.runelite.net/cache/item/icon/27302.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Het's_capture_detail.png"
+  },
+  {
+    "name": "apmeken's_capture",
+    "img_url": "https://static.runelite.net/cache/item/icon/27304.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Apmeken's_capture_detail.png"
+  },
+  {
+    "name": "scabaras'_capture",
+    "img_url": "https://static.runelite.net/cache/item/icon/27306.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Scabaras'_capture_detail.png"
+  },
+  {
+    "name": "crondis'_capture",
+    "img_url": "https://static.runelite.net/cache/item/icon/27308.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Crondis'_capture_detail.png"
+  },
+  {
+    "name": "the_wardens",
+    "img_url": "https://static.runelite.net/cache/item/icon/27310.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/The_wardens_detail.png"
+  },
+  {
+    "name": "the_jackal's_torch",
+    "img_url": "https://static.runelite.net/cache/item/icon/27312.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/The_jackal's_torch_detail.png"
+  },
+  {
+    "name": "supplies",
+    "img_url": "https://static.runelite.net/cache/item/icon/27314.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Supplies_detail.png"
+  },
+  {
+    "name": "nectar_(4)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27315.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Nectar_(4)_detail.png"
+  },
+  {
+    "name": "nectar_(3)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27317.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Nectar_(3)_detail.png"
+  },
+  {
+    "name": "nectar_(2)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27319.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Nectar_(2)_detail.png"
+  },
+  {
+    "name": "nectar_(1)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27321.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Nectar_(1)_detail.png"
+  },
+  {
+    "name": "silk_dressing_(2)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27323.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Silk_dressing_(2)_detail.png"
+  },
+  {
+    "name": "silk_dressing_(1)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27325.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Silk_dressing_(1)_detail.png"
+  },
+  {
+    "name": "tears_of_elidinis_(4)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27327.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Tears_of_elidinis_(4)_detail.png"
+  },
+  {
+    "name": "tears_of_elidinis_(3)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27329.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Tears_of_elidinis_(3)_detail.png"
+  },
+  {
+    "name": "tears_of_elidinis_(2)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27331.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Tears_of_elidinis_(2)_detail.png"
+  },
+  {
+    "name": "tears_of_elidinis_(1)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27333.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Tears_of_elidinis_(1)_detail.png"
+  },
+  {
+    "name": "blessed_crystal_scarab_(2)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27335.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Blessed_crystal_scarab_(2)_detail.png"
+  },
+  {
+    "name": "blessed_crystal_scarab_(1)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27337.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Blessed_crystal_scarab_(1)_detail.png"
+  },
+  {
+    "name": "liquid_adrenaline_(2)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27339.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Liquid_adrenaline_(2)_detail.png"
+  },
+  {
+    "name": "liquid_adrenaline_(1)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27341.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Liquid_adrenaline_(1)_detail.png"
+  },
+  {
+    "name": "smelling_salts_(2)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27343.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Smelling_salts_(2)_detail.png"
+  },
+  {
+    "name": "smelling_salts_(1)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27345.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Smelling_salts_(1)_detail.png"
+  },
+  {
+    "name": "ambrosia_(2)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27347.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Ambrosia_(2)_detail.png"
+  },
+  {
+    "name": "ambrosia_(1)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27349.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Ambrosia_(1)_detail.png"
+  },
+  {
+    "name": "honey_locust",
+    "img_url": "https://static.runelite.net/cache/item/icon/27351.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Honey_locust_detail.png"
+  },
+  {
+    "name": "tumeken's_guardian",
+    "img_url": "https://static.runelite.net/cache/item/icon/27352.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Tumeken's_guardian_detail.png"
+  },
+  {
+    "name": "elidinis'_guardian",
+    "img_url": "https://static.runelite.net/cache/item/icon/27354.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Elidinis'_guardian_detail.png"
+  },
+  {
+    "name": "masori_armour_set_(f)",
+    "img_url": "https://static.runelite.net/cache/item/icon/27355.png",
+    "detail_url": "https://oldschool.runescape.wiki/images/Masori_armour_set_(f)_detail.png"
   }
 ]

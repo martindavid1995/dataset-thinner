@@ -4,7 +4,7 @@
 # Find/replace all ' with \'
 # Surround in single quotes and set equal to data variable
 
-from data import *
+from data_9_2_22 import *
 import re
 import json
 
